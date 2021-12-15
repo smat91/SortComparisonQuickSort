@@ -28,7 +28,7 @@ ________________________________________________________________________________
     - In-Place-Implementierung möglich? Wenn nein, wieso nicht?
 <br><br>
 - <b>Lieferobjekte:</b>
-- Handout-Dokument – WICHTIG: Dies ist ein Dokument mit allen nötigen Informationen bzgl.
+  - Handout-Dokument – WICHTIG: Dies ist ein Dokument mit allen nötigen Informationen bzgl.
 «Inhalt Dokumentation» und nicht einfach die Präsentation (eine gute Präsentation enthält
 zuwenig Info, damit sie als Handout dienen kann).
   - Präsentation (ca. 10min) in MB09

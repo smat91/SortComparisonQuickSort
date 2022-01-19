@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SortComparison.SortingAlgorithms
 {
-    // Lomuto implementation
+    // QuickSort Implementierung nach Lomuto
     class QuickSort : SortAlgorithm
     {
         public override string Name => "Quicksort";

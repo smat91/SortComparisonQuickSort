@@ -18,7 +18,7 @@ ________________________________________________________________________________
   - Komplexitätsklasse
     - BestCase inkl. Beispiel
     - WorstCase inkl. Beispiel
-  -Einsatzbereiche/Abgrenzung
+  - Einsatzbereiche/Abgrenzung
 <br><br>
 - <b>Konzeptionelle Arbeitsweise:</b>
     - Skizzierung der Algorithmenidee

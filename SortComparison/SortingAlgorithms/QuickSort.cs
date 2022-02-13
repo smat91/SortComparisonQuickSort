@@ -51,17 +51,6 @@ namespace SortComparison.SortingAlgorithms
             return i;
         }
 
-        private static int Random_(IList<int> array, int start, int end)
-        {
-            // Zufällige Nummer zwischen Start und Ende generieren
-            Random rand = new Random();
-            var pivot = rand.Next(start-1, end+1);
-
-            // Elemente tauschen
-            Swap_(array, pivot, end);
-            return Partition_(array, start, end);
-        }
-
         private static void Swap_(IList<int> array, int a, int b)
         {
             var temp = array[a];
